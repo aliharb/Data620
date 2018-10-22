@@ -1,0 +1,32 @@
+Data:
+The data is a society of friends known as the Quakers. Quakers’ numbers grew rapidly in the mid- to late-seventeenth century and their members spread through the British Isles, Europe, and the New World colonies—especially Pennsylvania, founded by Quaker leader William Penn and the home of your four authors. The data is a list of names and relationships among the earliest seventeenth-century Quakers. 
+The data is undirected and has 96 nodes, 162 edges, and average degree of freedom of 3.375. The objective of this assignment is to identify the important people, hubs and the structure of the network. 
+Links:
+Nodes:
+'https://raw.githubusercontent.com/melaniewalsh/sample-social-network-datasets/master/sample-datasets/quakers/quaker-nodes.csv'
+Edges:
+'https://raw.githubusercontent.com/melaniewalsh/sample-social-network-datasets/master/sample-datasets/quakers/quaker-edges.csv'
+
+Procedure:
+-	Import data 
+-	Clean data if needed 
+-	Get the headers 
+-	Create a graph 
+-	Display nodes and edges 
+-	Display graph info
+-	Create a tension spring layout of the network
+-	Verify the  centrality 
+-	Draw the graph
+-	Get the density
+Using visual:
+-	Draw Degree centrality 
+-	Draw the degree of Betweeness centrality
+-	Draw the Closeness centrality
+-	Draw the Katz centrality
+-	Draw the communities 
+-	Plot the rank and find the top most important figures in the network 
+-	Find the degree, closeness, and betweenness centrality of the largest degree centrality node in the network.
+-	Find the roles of the top five most significant figures in the network 
+
+
+ 
